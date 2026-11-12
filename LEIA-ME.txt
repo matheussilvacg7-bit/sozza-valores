@@ -1,9 +1,0 @@
-ATUALIZAÇÃO DA HERO — SOZZA STUDIO
-
-1. No repositório github.com/matheussilvacg7-bit/sozza-valores, envie o arquivo logo-sozza.png para a raiz (mesma pasta de index.html).
-2. Abra index.html e clique no lápis para editar.
-3. Localize o bloco que começa em <header class="min-h-[40vh] ... e termina em </header> antes de <!-- Main Content -->.
-4. Substitua SOMENTE esse bloco pelo conteúdo de hero-atualizada.html.
-5. Clique em Commit changes. Aguarde a publicação do GitHub Pages.
-
-Os preços e as demais seções permanecem intocados. A logo tem transparência e tamanho adaptado a celular e desktop.
